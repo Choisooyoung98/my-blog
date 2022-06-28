@@ -1,13 +1,13 @@
 import React from "react"
 import Head from "../components/Head";
-const IndexPage = () => {
+const AboutPage = () => {
   return (
     <main>
-      <title>MY Blog</title>
+      <title>About</title>
       <Head/>
-      <h1>Home Page</h1>
+      <h1>About</h1>
     </main>
   );
 };
 
-export default IndexPage
+export default AboutPage
