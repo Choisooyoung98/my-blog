@@ -1,6 +1,6 @@
 import React from "react"
 import Head from "../components/Head";
-const testPage = () => {
+const TestPage = () => {
   return (
     <main>
       <title>테스트</title>
@@ -10,4 +10,4 @@ const testPage = () => {
   );
 };
 
-export default testPage
+export default TestPage

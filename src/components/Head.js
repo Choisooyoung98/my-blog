@@ -4,9 +4,9 @@ function Head() {
   return (
     <div style={{display:"flex",gap: 10}}>
       <Link to="/">HOME</Link>
-      <Link to="/about">About</Link>
-      <Link to="/text">Test</Link>
-      <Link to="/text-space">Test-space</Link>
+      <Link to="/About">About</Link>
+      <Link to="/test">Test</Link>
+      <Link to="/test-space">Test-space</Link>
     </div>
   );
 }
