@@ -2,9 +2,8 @@ import React from "react"
 import Layout from "../components/Layout";
 const IndexPage = () => {
   return (
-    <Layout>
-      <title>MY Blog</title>
-      <h1>Home Page</h1>
+    <Layout pageTitle="Home Page">
+      <p>tlqkf...</p>
     </Layout>
   );
 };
